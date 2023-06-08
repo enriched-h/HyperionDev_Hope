@@ -3,9 +3,10 @@ HyperionDev Freelance Code Reviewer Take-Home Test Solutions
 This repository contains the solutions for the HyperionDev Freelance Code Reviewer Take-Home Test. The test is divided into four sections, and each section has its 
 own folder with the corresponding solution.
 
-Section A: Hypothetical Student Python Script
-This folder contains a reviewed code for a Python script related to a hypothetical student. The script has been thoroughly reviewed and improved based on the
-given requirements. Please refer to the files in this folder for the solution.
+Section A
+Hypothetical Student Python Script
+This folder contains an md file for reviewed code for a Python script created by a hypothetical student. The script has been thoroughly reviewed and improved based on the
+given requirements. Please refer to the mdfile in this folder for the solution.
 
 Section B: Python Django Online Shop App
 This folder contains a Django app for an online shop. This app has been developed to meet the requirements specified in the test. It includes various 
