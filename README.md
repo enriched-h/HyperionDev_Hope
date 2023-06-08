@@ -19,6 +19,10 @@ Section D: Loom Video
 This folder contains a link to a Loom video. The video provides answers to three questions related to the test. Please click on the provided link to
 watch the video and gain insights into the solutions.
 
+Loom Video url link:
+
+https://www.loom.com/share/69525155b388405aa7b32d79fa63cab1
+
 Feel free to explore the folders and files in this repository to review the solutions for each section. If you have any questions or need further clarification,
 please don't hesitate to reach out.
 
