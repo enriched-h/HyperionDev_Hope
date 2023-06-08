@@ -1,0 +1,73 @@
+Build Instructions
+Ensure that you have the following prerequisites installed:
+
+Java Development Kit (JDK) 11 or higher
+Apache Maven
+
+Clone the repository to your local machine:
+
+git clone https://github.com/enriched-h/HyperionDev_Hope/.git
+
+
+Navigate to the project directory:
+cd cd HyperionDev_Hope/Section\ C/isbn-validator
+
+
+Build the application using Maven:
+mvn clean package
+
+
+Run Instructions
+After successful build, you can run the application using the following command:
+java -jar target/isbnJava.jar
+
+Enter an ISBN (ISBN-10 or ISBN-13) and press Enter.
+The application will validate the ISBN and provide the result.
+
+Testing
+To run the tests, execute the following command:
+mvn test
+
+The test results will be displayed, indicating the success or failure of each test case.
+
+
+Operating System-specific Instructions
+Linux
+No additional steps are required for Linux. Simply follow the general build, run, and test instructions provided above.
+
+macOS
+No additional steps are required for macOS. Simply follow the general build, run, and test instructions provided above.
+
+Windows
+If you're using Windows, you can follow the steps below:
+
+Build Instructions
+Open a command prompt or PowerShell.
+
+Navigate to the project directory:
+cd cd HyperionDev_Hope/Section\ C/isbn-validator
+
+
+Build the application using Maven:
+mvnw.cmd clean package
+
+Run Instructions
+After successful build, you can run the application using the following command:
+java -jar target/isbnJava.jar
+
+Enter an ISBN (ISBN-10 or ISBN-13) and press Enter.
+
+The application will validate the ISBN and provide the result.
+
+Testing
+To run the tests, execute the following command:
+mvnw.cmd test
+
+
+The test results will be displayed, indicating the success or failure of each test case.
+
+By providing these instructions, users on Linux, macOS, and Windows operating systems 
+will have the necessary guidelines to build, test, and run the ISBNJava app successfully.
+
+
+

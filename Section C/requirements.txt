@@ -1,0 +1,6 @@
+# Requirements for isbnJava app
+
+- Java Development Kit (JDK) 11 or higher
+- Text editor or Integrated Development Environment (IDE)
+- JUnit framework for unit testing (optional)
+- Docker (optional, for containerization)
