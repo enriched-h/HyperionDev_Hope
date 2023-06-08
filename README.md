@@ -17,7 +17,7 @@ file ensures that the functionality works correctly. Please refer to the files i
 
 Section D: Loom Video
 This folder contains a link to a Loom video. The video provides answers to three questions related to the test. Please click on the provided link to
-watch the video and gain insights into the solutions.
+watch the video.
 
 Loom Video url link:
 
