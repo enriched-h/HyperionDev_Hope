@@ -66,7 +66,7 @@ mvnw.cmd test
 
 The test results will be displayed, indicating the success or failure of each test case.
 
-By providing these instructions, users on Linux, macOS, and Windows operating systems 
+These instructions, users on Linux, macOS, and Windows operating systems 
 will have the necessary guidelines to build, test, and run the ISBNJava app successfully.
 
 
