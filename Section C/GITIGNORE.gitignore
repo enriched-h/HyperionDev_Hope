@@ -1,0 +1,22 @@
+# Compiled class files
+target/
+*.class
+
+# Maven build directory
+.mvn/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency management
+!.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
